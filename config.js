@@ -34,17 +34,17 @@ global.swb = 'https://discord.gg/4HvezMAw'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
+global.pdana = '082258255356'
+global.povo = '082258255356'
+global.pgopay = '082258255356'
+global.ppulsa = '082258255356'
 global.ppulsa2 = '-'
-global.psaweria = '-'
+global.psaweria = 'saweria.com/coffeaind'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.nomorown1 = '628812743180'
+global.nomorbot = '6283132921627'
+global.nomorown = '26283131688812'
+global.nomorown1 = '082258255356'
 global.namebot = 'NexBotz'
 global.nameown = 'NexEp'
 
