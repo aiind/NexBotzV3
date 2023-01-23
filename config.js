@@ -25,11 +25,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/saep.02'
+global.sig = 'https://instagram.com/itsaiind'
 global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
 global.sgh = 'https://github.com/SaepEp'
-global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/628812743180'
+global.sgc = 'https://chat.whatsapp.com/FZu6pDEw6pTLEE3yLQ9P3G'
+global.swa = 'wa.me/6283131688812'
 global.swb = 'https://discord.gg/4HvezMAw'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
